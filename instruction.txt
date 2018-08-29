@@ -1,0 +1,2 @@
+$appraise run --page "my_web" --initial-width 1280 --initial-height 200
+$appraise approve --page "image"
